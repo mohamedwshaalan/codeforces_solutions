@@ -1,2 +1,2 @@
 # Codeforces Solutions
-A compilation of solutions for problems from codeforces
+A compilation of my solutions for problems from codeforces
